@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rB0o7ctat6vrr7Wy937RHLwDGpZR8SU5U2qkN7+XsM+ck4IxplOt+f994837EtWDqrGQ1lzi0MdiH43AMWrd3w==",
+  "success": true,
+  "projectFilePath": "D:\\CISProject\\MicroServices ASP .Net\\StudentAttendenceMangement\\StudentAttendenceMangement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cis.CISM-I-422\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\cis.CISM-I-422\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cis.CISM-I-422\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\cis.CISM-I-422\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\cis.CISM-I-422\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\cis.CISM-I-422\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
